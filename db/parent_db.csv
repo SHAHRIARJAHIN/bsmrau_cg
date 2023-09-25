@@ -4,5 +4,8 @@ Batch No,Faculty Name,Database Version,Database Link
 15,Veterinary Medicine,0,1_15_vet.csv
 16,Veterinary Medicine,2,16_vet.csv
 16,Agriculture,0,16_agri.csv
+16,Fisheries,0,17_fish.csv
+17,Fisheries,0,17_fish.csv
 17,Veterinary Medicine,0,16_vet.csv
 18,Veterinary Medicine,0,16_vet.csv
+18,Fisheries,0,17_fish.csv
